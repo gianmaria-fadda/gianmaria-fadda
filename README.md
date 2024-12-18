@@ -29,8 +29,8 @@ Sono un Full-Stack Web Developer Junior, appassionato di tecnologia e sempre all
 
 ## 🌟 Progetti in evidenza
 
-📌 **[Deliveboo - Front-End](https://github.com/gianmaria-fadda/front-end-deliveboo)**
-📌 **[Deliveboo - Back-End](https://github.com/theguffs/team4-deliveboo)**
+📌 **[Deliveboo - Front-End](https://github.com/gianmaria-fadda/front-end-deliveboo)** <br>
+📌 **[Deliveboo - Back-End](https://github.com/theguffs/team4-deliveboo)** <br>
 Copia di Deliveroo realizzata durante il corso Boolean. Ho utilizzato Vue.js, Laravel, PHP, MySQL, Sass e altre tecnologie per creare una web app con funzionalità di gestione ordini, registrazione ristoranti e statistiche.
 
 📌 **[Vue-Boolzap](https://github.com/gianmaria-fadda/vue-boolzapp)**  
